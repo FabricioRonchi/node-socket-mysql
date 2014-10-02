@@ -1,0 +1,21 @@
+{
+  "name": "node-socket-mysql",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FabricioRonchi/node-socket-mysql.git"
+  },
+  "author": "Fabricio Ronchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabricioRonchi/node-socket-mysql/issues"
+  },
+  "homepage": "https://github.com/FabricioRonchi/node-socket-mysql",
+  "dependencies": {
+     "mysql": "^2.4.2"
+  }
+}
